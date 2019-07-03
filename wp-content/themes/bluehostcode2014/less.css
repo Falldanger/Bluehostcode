@@ -1,0 +1,30 @@
+/* Standard screen size */
+@media (max-width:600px){
+    #content{
+        width: 100%;
+    }
+    #sidebar{
+        width: 100%;
+    }
+}
+/*
+     FILE ARCHIVED ON 13:10:01 Mar 17, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:46:49 Aug 28, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 57.9 (3)
+  esindex: 0.008
+  captures_list: 73.564
+  CDXLines.iter: 10.717 (3)
+  PetaboxLoader3.datanode: 86.957 (5)
+  exclusion.robots: 0.403
+  exclusion.robots.policy: 0.384
+  RedisCDXSource: 1.75
+  PetaboxLoader3.resolve: 291.865 (2)
+  load_resource: 361.385
+*/
